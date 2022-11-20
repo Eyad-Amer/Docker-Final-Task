@@ -26,6 +26,7 @@
 
 #### Run The Project:
 	http://localhost:8000/
+note: to present the Average Price for the last 10 minutes, you need to wait 10 mins when running the localhost
 ![browser app](https://user-images.githubusercontent.com/40535130/202915136-e41aac8b-cd54-479a-9d21-17029bdc2fcf.jpg)
 
 ####  Stop The Project:
