@@ -18,7 +18,7 @@ def get_bitcoin_price():
 def get_bitcoin_avg():
     prices = list()
     now = datetime.now()  
-    now_plus_10 = now + timedelta(minutes = 0.1)
+    now_plus_10 = now + timedelta(minutes = 10)
 
     while now < now_plus_10:
         price = get_bitcoin_price()
